@@ -1,3 +1,6 @@
 [submodule "assignment-autotest"]
 	path = assignment-autotest
 	url = https://github.com/cu-ecen-aeld/assignment-autotest.git
+[submodule "assignment-1-kcaldcub"]
+	path = assignment-1-kcaldcub
+	url = https://github.com/cu-ecen-aeld/assignment-1-kcaldcub
